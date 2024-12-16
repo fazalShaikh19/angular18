@@ -8,4 +8,6 @@ import { Component } from '@angular/core';
 })
 export class DataBindingComponent {
 
+  title:string='Hi fazal shaikh welcome to angular 19 tutorial'
+
 }
